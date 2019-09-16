@@ -1,0 +1,6 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Questions}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Who are the people in the photograph?}{1}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}What is the significance of the photo? Why does it exist?}{1}{section.1.2}% 
+\contentsline {chapter}{\numberline {2}Research}{2}{chapter.2}% 
+\contentsline {chapter}{\numberline {3}Answers}{3}{chapter.3}% 
