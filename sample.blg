@@ -1,0 +1,5 @@
+[0] Config.pm:299> INFO - This is Biber 2.13 (beta)
+[0] Config.pm:302> INFO - Logfile is 'sample.blg'
+[42] biber-darwin:315> INFO - === Tue Sep 17, 2019, 20:16:26
+[196] Utils.pm:316> ERROR - Cannot find 'sample.bcf'!
+[196] Biber.pm:114> INFO - ERRORS: 1

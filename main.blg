@@ -1,0 +1,8 @@
+[1] Config.pm:299> INFO - This is Biber 2.13 (beta)
+[2] Config.pm:302> INFO - Logfile is 'main.blg'
+[283] biber-darwin:315> INFO - === Tue Sep 17, 2019, 20:14:14
+[368] Biber.pm:374> INFO - Reading 'main.bcf'
+[1098] Utils.pm:316> ERROR - Error: Found biblatex control file version 3.5, expected version 3.6.
+This means that your biber (2.13) and biblatex (3.12) versions are incompatible.
+See compat matrix in biblatex or biber PDF documentation.
+[1099] Biber.pm:114> INFO - ERRORS: 1

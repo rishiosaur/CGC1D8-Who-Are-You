@@ -1,11 +1,22 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Questions}{1}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Who are the people in the photograph?}{1}{section.1.1}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}What is the significance of the photo? Why does it exist?}{1}{section.1.2}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.3}If there is a problem, how might one resolve it?}{1}{section.1.3}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Research}{2}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}General Information}{2}{section.2.1}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Coping}{2}{section.2.2}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Meaning of the photo}{3}{section.2.3}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Answers}{4}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}What is the significance of this photo? Why does it exist?}{4}{section.3.1}% 

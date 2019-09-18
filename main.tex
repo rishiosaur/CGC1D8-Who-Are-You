@@ -10,6 +10,9 @@
 \usepackage{pdfpages}
 \usepackage{fancyhdr}
 
+\usepackage[backend=biber]{biblatex}
+\addbibresource{bibliography.bib}
+
 \usepackage{titlepic}
 
 \addto\captionsenglish{\renewcommand{\chaptername}{Part}}
@@ -109,5 +112,7 @@
 \chapter{Answers}
 I'll be creating a paragraph for my second question, "What is the significance of this photo? Why does it exist?"
 \subfile{sections/Answers/s0.tex}
+
+\printbibliography
 
 \end{document}  

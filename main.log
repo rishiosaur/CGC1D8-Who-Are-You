@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.6.27)  17 SEP 2019 20:06
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.6.27)  17 SEP 2019 20:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -303,29 +303,234 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@O@erf=\skip56
 \f@nch@O@olf=\skip57
 \f@nch@O@orf=\skip58
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/titlepic/titlepic.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count122
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count123
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count124
+\c@listtotal=\count125
+\c@listcount=\count126
+\c@liststart=\count127
+\c@liststop=\count128
+\c@citecount=\count129
+\c@citetotal=\count130
+\c@multicitecount=\count131
+\c@multicitetotal=\count132
+\c@instcount=\count133
+\c@maxnames=\count134
+\c@minnames=\count135
+\c@maxitems=\count136
+\c@minitems=\count137
+\c@citecounter=\count138
+\c@maxcitecounter=\count139
+\c@savedcitecounter=\count140
+\c@uniquelist=\count141
+\c@uniquename=\count142
+\c@refsection=\count143
+\c@refsegment=\count144
+\c@maxextratitle=\count145
+\c@maxextratitleyear=\count146
+\c@maxextraname=\count147
+\c@maxextradate=\count148
+\c@maxextraalpha=\count149
+\c@abbrvpenalty=\count150
+\c@highnamepenalty=\count151
+\c@lownamepenalty=\count152
+\c@maxparens=\count153
+\c@parenlevel=\count154
+\blx@tempcnta=\count155
+\blx@tempcntb=\count156
+\blx@tempcntc=\count157
+\blx@maxsection=\count158
+\blx@maxsegment@0=\count159
+\blx@notetype=\count160
+\blx@parenlevel@text=\count161
+\blx@parenlevel@foot=\count162
+\blx@sectionciteorder@0=\count163
+\blx@entrysetcounter=\count164
+\labelnumberwidth=\skip59
+\labelalphawidth=\skip60
+\biblabelsep=\skip61
+\bibitemsep=\skip62
+\bibnamesep=\skip63
+\bibinitsep=\skip64
+\bibparsep=\skip65
+\bibhang=\skip66
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\c@mincomprange=\count165
+\c@maxcomprange=\count166
+\c@mincompwidth=\count167
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count168
+\c@savedafterword=\count169
+\c@annotator=\count170
+\c@savedannotator=\count171
+\c@author=\count172
+\c@savedauthor=\count173
+\c@bookauthor=\count174
+\c@savedbookauthor=\count175
+\c@commentator=\count176
+\c@savedcommentator=\count177
+\c@editor=\count178
+\c@savededitor=\count179
+\c@editora=\count180
+\c@savededitora=\count181
+\c@editorb=\count182
+\c@savededitorb=\count183
+\c@editorc=\count184
+\c@savededitorc=\count185
+\c@foreword=\count186
+\c@savedforeword=\count187
+\c@holder=\count188
+\c@savedholder=\count189
+\c@introduction=\count190
+\c@savedintroduction=\count191
+\c@namea=\count192
+\c@savednamea=\count193
+\c@nameb=\count194
+\c@savednameb=\count195
+\c@namec=\count196
+\c@savednamec=\count197
+\c@translator=\count198
+\c@savedtranslator=\count199
+\c@shortauthor=\count266
+\c@savedshortauthor=\count267
+\c@shorteditor=\count268
+\c@savedshorteditor=\count269
+\c@labelname=\count270
+\c@savedlabelname=\count271
+\c@institution=\count272
+\c@savedinstitution=\count273
+\c@lista=\count274
+\c@savedlista=\count275
+\c@listb=\count276
+\c@savedlistb=\count277
+\c@listc=\count278
+\c@savedlistc=\count279
+\c@listd=\count280
+\c@savedlistd=\count281
+\c@liste=\count282
+\c@savedliste=\count283
+\c@listf=\count284
+\c@savedlistf=\count285
+\c@location=\count286
+\c@savedlocation=\count287
+\c@organization=\count288
+\c@savedorganization=\count289
+\c@origlocation=\count290
+\c@savedoriglocation=\count291
+\c@origpublisher=\count292
+\c@savedorigpublisher=\count293
+\c@publisher=\count294
+\c@savedpublisher=\count295
+\c@language=\count296
+\c@savedlanguage=\count297
+\c@origlanguage=\count298
+\c@savedoriglanguage=\count299
+\c@pageref=\count300
+\c@savedpageref=\count301
+\shorthandwidth=\skip67
+\shortjournalwidth=\skip68
+\shortserieswidth=\skip69
+\shorttitlewidth=\skip70
+\shortauthorwidth=\skip71
+\shorteditorwidth=\skip72
+\locallabelnumberwidth=\skip73
+\locallabelalphawidth=\skip74
+\localshorthandwidth=\skip75
+\localshortjournalwidth=\skip76
+\localshortserieswidth=\skip77
+\localshorttitlewidth=\skip78
+\localshortauthorwidth=\skip79
+\localshorteditorwidth=\skip80
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+\c@textcitecount=\count302
+\c@textcitetotal=\count303
+\c@textcitemaxnames=\count304
+\c@biburlnumpenalty=\count305
+\c@biburlucpenalty=\count306
+\c@biburllcpenalty=\count307
+\c@smartand=\count308
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count309
+\c@bbx:relatedtotal=\count310
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/titlepic/titlepic.sty
 Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 22.
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count122
+\lst@mode=\count311
 \lst@gtempboxa=\box32
 \lst@token=\toks26
-\lst@length=\count123
+\lst@length=\count312
 \lst@currlwidth=\dimen131
-\lst@column=\count124
-\lst@pos=\count125
+\lst@column=\count313
+\lst@pos=\count314
 \lst@lostspace=\dimen132
 \lst@width=\dimen133
-\lst@newlines=\count126
-\lst@lineno=\count127
+\lst@newlines=\count315
+\lst@lineno=\count316
 \lst@maxwidth=\dimen134
  (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-\c@lstnumber=\count128
-\lst@skipnumbers=\count129
+\c@lstnumber=\count317
+\lst@skipnumbers=\count318
 \lst@framebox=\box33
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2019/02/27 1.8b listings configuration
@@ -699,105 +904,105 @@ Package: beramono 2004/01/31 (WaS)
 Package: expl3 2019-05-28 L3 programming layer (loader) 
  (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2019-05-28 L3 programming layer (code)
-\c_max_int=\count130
-\l_tmpa_int=\count131
-\l_tmpb_int=\count132
-\g_tmpa_int=\count133
-\g_tmpb_int=\count134
-\g__kernel_prg_map_int=\count135
-\c__ior_term_ior=\count136
-\c_log_iow=\count137
-\l_iow_line_count_int=\count138
-\l__iow_line_target_int=\count139
-\l__iow_one_indent_int=\count140
-\l__iow_indent_int=\count141
+\c_max_int=\count319
+\l_tmpa_int=\count320
+\l_tmpb_int=\count321
+\g_tmpa_int=\count322
+\g_tmpb_int=\count323
+\g__kernel_prg_map_int=\count324
+\c__ior_term_ior=\count325
+\c_log_iow=\count326
+\l_iow_line_count_int=\count327
+\l__iow_line_target_int=\count328
+\l__iow_one_indent_int=\count329
+\l__iow_indent_int=\count330
 \c_zero_dim=\dimen135
 \c_max_dim=\dimen136
 \l_tmpa_dim=\dimen137
 \l_tmpb_dim=\dimen138
 \g_tmpa_dim=\dimen139
 \g_tmpb_dim=\dimen140
-\c_zero_skip=\skip59
-\c_max_skip=\skip60
-\l_tmpa_skip=\skip61
-\l_tmpb_skip=\skip62
-\g_tmpa_skip=\skip63
-\g_tmpb_skip=\skip64
+\c_zero_skip=\skip81
+\c_max_skip=\skip82
+\l_tmpa_skip=\skip83
+\l_tmpb_skip=\skip84
+\g_tmpa_skip=\skip85
+\g_tmpb_skip=\skip86
 \c_zero_muskip=\muskip12
 \c_max_muskip=\muskip13
 \l_tmpa_muskip=\muskip14
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count142
-\l__intarray_loop_int=\count143
+\l_keys_choice_int=\count331
+\l__intarray_loop_int=\count332
 \c__intarray_sp_dim=\dimen141
-\g__intarray_font_int=\count144
-\c__fp_leading_shift_int=\count145
-\c__fp_middle_shift_int=\count146
-\c__fp_trailing_shift_int=\count147
-\c__fp_big_leading_shift_int=\count148
-\c__fp_big_middle_shift_int=\count149
-\c__fp_big_trailing_shift_int=\count150
-\c__fp_Bigg_leading_shift_int=\count151
-\c__fp_Bigg_middle_shift_int=\count152
-\c__fp_Bigg_trailing_shift_int=\count153
-\g__fp_array_int=\count154
-\l__fp_array_loop_int=\count155
-\l__sort_length_int=\count156
-\l__sort_min_int=\count157
-\l__sort_top_int=\count158
-\l__sort_max_int=\count159
-\l__sort_true_max_int=\count160
-\l__sort_block_int=\count161
-\l__sort_begin_int=\count162
-\l__sort_end_int=\count163
-\l__sort_A_int=\count164
-\l__sort_B_int=\count165
-\l__sort_C_int=\count166
-\l__tl_analysis_normal_int=\count167
-\l__tl_analysis_index_int=\count168
-\l__tl_analysis_nesting_int=\count169
-\l__tl_analysis_type_int=\count170
-\l__regex_internal_a_int=\count171
-\l__regex_internal_b_int=\count172
-\l__regex_internal_c_int=\count173
-\l__regex_balance_int=\count174
-\l__regex_group_level_int=\count175
-\l__regex_mode_int=\count176
-\c__regex_cs_in_class_mode_int=\count177
-\c__regex_cs_mode_int=\count178
-\l__regex_catcodes_int=\count179
-\l__regex_default_catcodes_int=\count180
-\c__regex_catcode_L_int=\count181
-\c__regex_catcode_O_int=\count182
-\c__regex_catcode_A_int=\count183
-\c__regex_all_catcodes_int=\count184
-\l__regex_show_lines_int=\count185
-\l__regex_min_state_int=\count186
-\l__regex_max_state_int=\count187
-\l__regex_left_state_int=\count188
-\l__regex_right_state_int=\count189
-\l__regex_capturing_group_int=\count190
-\l__regex_min_pos_int=\count191
-\l__regex_max_pos_int=\count192
-\l__regex_curr_pos_int=\count193
-\l__regex_start_pos_int=\count194
-\l__regex_success_pos_int=\count195
-\l__regex_curr_char_int=\count196
-\l__regex_curr_catcode_int=\count197
-\l__regex_last_char_int=\count198
-\l__regex_case_changed_char_int=\count199
-\l__regex_curr_state_int=\count266
-\l__regex_step_int=\count267
-\l__regex_min_active_int=\count268
-\l__regex_max_active_int=\count269
-\l__regex_replacement_csnames_int=\count270
-\l__regex_match_count_int=\count271
-\l__regex_min_submatch_int=\count272
-\l__regex_submatch_int=\count273
-\l__regex_zeroth_submatch_int=\count274
-\g__regex_trace_regex_int=\count275
+\g__intarray_font_int=\count333
+\c__fp_leading_shift_int=\count334
+\c__fp_middle_shift_int=\count335
+\c__fp_trailing_shift_int=\count336
+\c__fp_big_leading_shift_int=\count337
+\c__fp_big_middle_shift_int=\count338
+\c__fp_big_trailing_shift_int=\count339
+\c__fp_Bigg_leading_shift_int=\count340
+\c__fp_Bigg_middle_shift_int=\count341
+\c__fp_Bigg_trailing_shift_int=\count342
+\g__fp_array_int=\count343
+\l__fp_array_loop_int=\count344
+\l__sort_length_int=\count345
+\l__sort_min_int=\count346
+\l__sort_top_int=\count347
+\l__sort_max_int=\count348
+\l__sort_true_max_int=\count349
+\l__sort_block_int=\count350
+\l__sort_begin_int=\count351
+\l__sort_end_int=\count352
+\l__sort_A_int=\count353
+\l__sort_B_int=\count354
+\l__sort_C_int=\count355
+\l__tl_analysis_normal_int=\count356
+\l__tl_analysis_index_int=\count357
+\l__tl_analysis_nesting_int=\count358
+\l__tl_analysis_type_int=\count359
+\l__regex_internal_a_int=\count360
+\l__regex_internal_b_int=\count361
+\l__regex_internal_c_int=\count362
+\l__regex_balance_int=\count363
+\l__regex_group_level_int=\count364
+\l__regex_mode_int=\count365
+\c__regex_cs_in_class_mode_int=\count366
+\c__regex_cs_mode_int=\count367
+\l__regex_catcodes_int=\count368
+\l__regex_default_catcodes_int=\count369
+\c__regex_catcode_L_int=\count370
+\c__regex_catcode_O_int=\count371
+\c__regex_catcode_A_int=\count372
+\c__regex_all_catcodes_int=\count373
+\l__regex_show_lines_int=\count374
+\l__regex_min_state_int=\count375
+\l__regex_max_state_int=\count376
+\l__regex_left_state_int=\count377
+\l__regex_right_state_int=\count378
+\l__regex_capturing_group_int=\count379
+\l__regex_min_pos_int=\count380
+\l__regex_max_pos_int=\count381
+\l__regex_curr_pos_int=\count382
+\l__regex_start_pos_int=\count383
+\l__regex_success_pos_int=\count384
+\l__regex_curr_char_int=\count385
+\l__regex_curr_catcode_int=\count386
+\l__regex_last_char_int=\count387
+\l__regex_case_changed_char_int=\count388
+\l__regex_curr_state_int=\count389
+\l__regex_step_int=\count390
+\l__regex_min_active_int=\count391
+\l__regex_max_active_int=\count392
+\l__regex_replacement_csnames_int=\count393
+\l__regex_match_count_int=\count394
+\l__regex_min_submatch_int=\count395
+\l__regex_submatch_int=\count396
+\l__regex_zeroth_submatch_int=\count397
+\g__regex_trace_regex_int=\count398
 \c_empty_box=\box34
 \l_tmpa_box=\box35
 \l_tmpb_box=\box36
@@ -841,37 +1046,37 @@ Package: expl3 2019-05-28 L3 programming layer (code)
 \l__coffin_display_offset_dim=\dimen164
 \l__coffin_display_x_dim=\dimen165
 \l__coffin_display_y_dim=\dimen166
-\g__file_internal_ior=\read2
-\l__seq_internal_a_int=\count276
-\l__seq_internal_b_int=\count277
-\c__deprecation_minus_one=\count278
+\g__file_internal_ior=\read3
+\l__seq_internal_a_int=\count399
+\l__seq_internal_b_int=\count400
+\c__deprecation_minus_one=\count401
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvipdfmx.def 2019-04-06 v L3 Experimental driver: xdvipdfmx
 \l__driver_internal_box=\box52
-\g__driver_graphics_int=\count279
-\g__driver_pdf_object_int=\count280
-\g__driver_pdf_annotation_int=\count281
+\g__driver_graphics_int=\count402
+\g__driver_pdf_object_int=\count403
+\g__driver_pdf_annotation_int=\count404
 ))
 Package: xparse 2019-05-28 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count282
-\g__xparse_grabber_int=\count283
-\l__xparse_m_args_int=\count284
-\l__xparse_v_nesting_int=\count285
+\l__xparse_current_arg_int=\count405
+\g__xparse_grabber_int=\count406
+\l__xparse_m_args_int=\count407
+\l__xparse_v_nesting_int=\count408
 )
 Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
  (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count286
-\l__fontspec_language_int=\count287
-\l__fontspec_strnum_int=\count288
-\l__fontspec_tmp_int=\count289
-\l__fontspec_tmpa_int=\count290
-\l__fontspec_tmpb_int=\count291
-\l__fontspec_tmpc_int=\count292
-\l__fontspec_em_int=\count293
-\l__fontspec_emdef_int=\count294
-\l__fontspec_strong_int=\count295
-\l__fontspec_strongdef_int=\count296
+\l__fontspec_script_int=\count409
+\l__fontspec_language_int=\count410
+\l__fontspec_strnum_int=\count411
+\l__fontspec_tmp_int=\count412
+\l__fontspec_tmpa_int=\count413
+\l__fontspec_tmpb_int=\count414
+\l__fontspec_tmpc_int=\count415
+\l__fontspec_em_int=\count416
+\l__fontspec_emdef_int=\count417
+\l__fontspec_strong_int=\count418
+\l__fontspec_strongdef_int=\count419
 \l__fontspec_tmpa_dim=\dimen167
 \l__fontspec_tmpb_dim=\dimen168
 \l__fontspec_tmpc_dim=\dimen169
@@ -912,7 +1117,7 @@ Package fontspec Info: Font family 'SFProTextRegular(0)' created for font 'SF
 (fontspec)             Regular/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
-LaTeX Info: Redefining \rmfamily on input line 31.
+LaTeX Info: Redefining \rmfamily on input line 34.
 
 Package fontspec Info: Could not resolve font "Fira Mono/I" (it probably
 (fontspec)             doesn't exist).
@@ -950,12 +1155,12 @@ Package fontspec Info: Font family 'FiraMono(0)' created for font 'Fira Mono'
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
-LaTeX Info: Redefining \ttfamily on input line 32.
+LaTeX Info: Redefining \ttfamily on input line 35.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box53
-\beforetitleunit=\skip65
-\aftertitleunit=\skip66
+\beforetitleunit=\skip87
+\aftertitleunit=\skip88
 \ttl@plus=\dimen170
 \ttl@minus=\dimen171
 \ttl@toksa=\toks27
@@ -964,10 +1169,21 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthfirst=\dimen174
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip67
-\thanksmargin=\skip68
-\droptitle=\skip69
+\thanksmarkwidth=\skip89
+\thanksmargin=\skip90
+\droptitle=\skip91
 )
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count420
+\@quotereset=\count421
 
 LaTeX Warning: Unused global option(s):
     [titlepic].
@@ -975,36 +1191,36 @@ LaTeX Warning: Unused global option(s):
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 78.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 81.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 78.
-LaTeX Font Info:    Try loading font information for MDA+cmr on input line 78.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 81.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 81.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    ... okay on input line 81.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1041,20 +1257,20 @@ LaTeX Font Info:    ... okay on input line 78.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring ON on input line 78.
+Package hyperref Info: Link coloring ON on input line 81.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count297
+\c@section@level=\count422
 )
-LaTeX Info: Redefining \ref on input line 78.
-LaTeX Info: Redefining \pageref on input line 78.
-LaTeX Info: Redefining \nameref on input line 78.
+LaTeX Info: Redefining \ref on input line 81.
+LaTeX Info: Redefining \pageref on input line 81.
+LaTeX Info: Redefining \nameref on input line 81.
  (./main.out) (./main.out)
-\@outlinefile=\write3
-\openout3 = `main.out'.
+\@outlinefile=\write4
+\openout4 = `main.out'.
 
  (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -1063,58 +1279,69 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
 )
-\c@lstlisting=\count298
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 81.
+Package biblatex Info: Reference segment=0 on input line 81.
+\c@lstlisting=\count423
 File: graphics/philliphine-drug-war-1.jpg Graphic file (type bmp)
 <graphics/philliphine-drug-war-1.jpg>
  [1
 
 ] (./main.toc
-LaTeX Font Info:    Try loading font information for OT1+zavm on input line 3.
+LaTeX Font Info:    Try loading font information for OT1+zavm on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/arev/ot1zavm.fd
 File: ot1zavm.fd 2006/05/30 Fontinst v1.929 font definitions for OT1/zavm.
 )
-LaTeX Font Info:    Try loading font information for OML+zavm on input line 3.
+LaTeX Font Info:    Try loading font information for OML+zavm on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/arev/omlzavm.fd
 File: omlzavm.fd 2006/05/30 Fontinst v1.929 font definitions for OML/zavm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zavm on input line 3.
+LaTeX Font Info:    Try loading font information for OMS+zavm on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/arev/omszavm.fd
 File: omszavm.fd 2006/05/30 Fontinst v1.929 font definitions for OMS/zavm.
 )
-LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 3.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 3.
+(Font)              scaled to size 9.60007pt on input line 6.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.29605pt on input line 3.
+(Font)              scaled to size 7.29605pt on input line 6.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+(Font)              scaled to size 5.76004pt on input line 6.
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 3.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 3.
+(Font)              scaled to size 9.60007pt on input line 6.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 7.29605pt on input line 3.
+(Font)              scaled to size 7.29605pt on input line 6.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Try loading font information for U+zavm on input line 3.
+(Font)              scaled to size 5.76004pt on input line 6.
+LaTeX Font Info:    Try loading font information for U+zavm on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/arev/uzavm.fd
 File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 ))
-\tf@toc=\write4
-\openout4 = `main.toc'.
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
  [1
 
@@ -1129,25 +1356,31 @@ Part 2.
 ]) [3]
 Part 3.
 (./sections/Answers/s0.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
- [4
+
+LaTeX Warning: Empty bibliography on input line 116.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
+[4
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 118.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D262795EA0339AFFBF18E326B6CC02D4.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
  ) 
 Here is how much of TeX's memory you used:
- 24914 strings out of 492909
- 457990 string characters out of 6132923
- 568288 words of memory out of 5000000
- 28682 multiletter control sequences out of 15000+600000
+ 31305 strings out of 492909
+ 578738 string characters out of 6132923
+ 1058108 words of memory out of 5000000
+ 35023 multiletter control sequences out of 15000+600000
  546286 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 43i,6n,79p,963b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,6n,79p,1047b,3759s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.xdv (6 pages, 76140 bytes).
